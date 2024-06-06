@@ -37,6 +37,20 @@ Se agregaron las etiquetas para poder ver el pedido realizado en la parte de "mi
 
 Se agregó el precio total y subtotal dependiendo de la orden del cliente 
 
+Se agregó el botón "confirmar pedido" para que una vez que el cliente termine su orden la pueda mandar 
+
+Se agregó para que el cliente pueda poner su nombre en la orden y puedan identificarlo
+
+En la parte de administracion se agregó para que el encargado de subir y modificar los productos lo pueda hacer facilmente 
+
+En la parte de cocina se agregó para poder marcar las ordenes completas y mandarlas
+
+## PRÓXIMAS ACTUALIZACIONES 
+
+Notificar al cliente mediante su dispositivo que su pedido está listo 
+
+El cliente puede escribir su opinion acerca del servicio en la misma app
+
 
 
 
