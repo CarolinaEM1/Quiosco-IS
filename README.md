@@ -20,7 +20,24 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## VERSIONES 
+
+
+Se realizó primeramente el encabezado de la pagína, donde se dividian las secciones para mostrar el pedido, ordenarlo y seleccionarlo
+
+Se creó la base de datos (prisma) donde se guardaban todos los productos comprados, los clientes, los pedidos, etc
+
+Se agregaron las categorias (los diferentes tipos de comida)
+
+Se agregó el menú de comida mostrando los precios y el nombre de cada una de ellas 
+
+Se agregó el botón "agregar" a las comidas para que el cliente pudiera seleccionar a su gusto 
+
+Se agregaron las etiquetas para poder ver el pedido realizado en la parte de "mi pedido"
+
+Se agregó el precio total y subtotal dependiendo de la orden del cliente 
+
+
 
 
 ## Learn More
